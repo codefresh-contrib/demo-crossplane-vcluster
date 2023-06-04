@@ -11,7 +11,7 @@ spec:
     directory:
       recurse: true
       include: '*.yaml'
-    repoURL: https://github.com/codefresh-contrib/kubecon-eu-2023-demo-crossplane-vcluster.git
+    repoURL: https://github.com/codefresh-contrib/demo-crossplane-vcluster
     targetRevision: HEAD
     path: virtualargocds
   syncPolicy:
